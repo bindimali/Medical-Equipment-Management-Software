@@ -1,1 +1,2 @@
-# Medical-Equipment-Management-Software
+# medical-equipment-management-frontend
+medical equipment management react js
